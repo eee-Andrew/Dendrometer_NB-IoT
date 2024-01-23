@@ -1,4 +1,4 @@
-Recently, physical environmental monitoring has become essential for studying various environmental problems. The status and growth of forests is considered important for monitoring the global heat and water cycle, especially in terms of CO2 reduction through tree photosynthesis. Monitoring tree growth conditions, such as the rate of radial tree growth, could solve some environmental pollution and deforestation problems in order to prevent forest decline. The scope of this work is to implement a NB-IoT node with a sensor for measuring the diameter of trees (tree diameter) and to implement it in such a way to ensure the long-term operation of the device.  The main problem we face is the lack of information on the rate of forest growth in different geomorphological regions.By implementing a NB-IoT node we can provide the appropriate information to experts with the measurements sent by the tree meter to examine the respective areas where the tree meters have been placed. Knowing that, in an area A, the trees grow faster while in an area B the trees grow at a slower rate than in area A, we conclude that the conditions in area A are clearly better. Thus, knowing that the 'main conditions for forest growth' prevail in area A, we provide the relevant authorities with the information that area A is considered important to consider for the conditions prevailing there.
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/4aa84777-fdc7-42fb-9ce7-ed09dbadd33e)![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/efe62ec6-8547-4e1c-bfc5-dbe19b2558f3)![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/a038f642-0d82-4b69-af87-51245870b09f)Recently, physical environmental monitoring has become essential for studying various environmental problems. The status and growth of forests is considered important for monitoring the global heat and water cycle, especially in terms of CO2 reduction through tree photosynthesis. Monitoring tree growth conditions, such as the rate of radial tree growth, could solve some environmental pollution and deforestation problems in order to prevent forest decline. The scope of this work is to implement a NB-IoT node with a sensor for measuring the diameter of trees (tree diameter) and to implement it in such a way to ensure the long-term operation of the device.  The main problem we face is the lack of information on the rate of forest growth in different geomorphological regions.By implementing a NB-IoT node we can provide the appropriate information to experts with the measurements sent by the tree meter to examine the respective areas where the tree meters have been placed. Knowing that, in an area A, the trees grow faster while in an area B the trees grow at a slower rate than in area A, we conclude that the conditions in area A are clearly better. Thus, knowing that the 'main conditions for forest growth' prevail in area A, we provide the relevant authorities with the information that area A is considered important to consider for the conditions prevailing there.
 
 
 
@@ -23,13 +23,16 @@ Subsequently, AT commands are executed to configure the MQTT broker and send dat
 
 
 ![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/093ad6c0-08b4-4314-9bda-c4887b94e014)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/4d9519ac-8223-4ffc-8d6e-6fe082cd9c01)
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/5483c69d-616e-4cc8-8f89-6a17cb5c5d25)
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/7f7dbb43-3367-44e8-92f6-2856750add60)
+
+
+
+
+
+
+
 
 
 
