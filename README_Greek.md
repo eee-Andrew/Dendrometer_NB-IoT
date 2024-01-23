@@ -26,11 +26,11 @@ Low Power Arduino code
 Καταγραφή και ύπνος:
 Καταγράφονται η κατεύθυνση και η τρέχουσα τιμή του κωδικοποιητή.
 Έπειτα, εκτελείται εντολή για να τερματιστεί η σύνδεση με το δίκτυο, και ο μικροελεγκτής τίθεται σε κατάσταση χαμηλής κατανάλωσης ενέργειας με τη χρήση της βιβλιοθήκης LowPower.
+
 ![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/093ad6c0-08b4-4314-9bda-c4887b94e014)
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/4d9519ac-8223-4ffc-8d6e-6fe082cd9c01)
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/5483c69d-616e-4cc8-8f89-6a17cb5c5d25)
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/7f7dbb43-3367-44e8-92f6-2856750add60)
+
 ![Uploading image.png…]()
 ![Uploading image.png…]()
