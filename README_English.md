@@ -1,3 +1,9 @@
+Recently, physical environmental monitoring has become essential for studying various environmental problems. The status and growth of forests is considered important for monitoring the global heat and water cycle, especially in terms of CO2 reduction through tree photosynthesis. Monitoring tree growth conditions, such as the rate of radial tree growth, could solve some environmental pollution and deforestation problems in order to prevent forest decline. The scope of this work is to implement a NB-IoT node with a sensor for measuring the diameter of trees (tree diameter) and to implement it in such a way to ensure the long-term operation of the device.  The main problem we face is the lack of information on the rate of forest growth in different geomorphological regions.By implementing a NB-IoT node we can provide the appropriate information to experts with the measurements sent by the tree meter to examine the respective areas where the tree meters have been placed. Knowing that, in an area A, the trees grow faster while in an area B the trees grow at a slower rate than in area A, we conclude that the conditions in area A are clearly better. Thus, knowing that the 'main conditions for forest growth' prevail in area A, we provide the relevant authorities with the information that area A is considered important to consider for the conditions prevailing there.
+
+
+
+
+
 The provided Arduino code utilizes an Arduino microcontroller with an encoder sensor and a GSM/GPRS/NB-IoT module (DFRobot_SIM7000) to communicate with an MQTT broker over a mobile network. Here is a brief explanation of the code:
 
 Encoder Interrupts:
