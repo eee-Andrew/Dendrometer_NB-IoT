@@ -20,6 +20,28 @@ If yes, the NB-IoT module (SIM7000) is activated, and the connection to the netw
 MQTT Broker Communication:
 Subsequently, AT commands are executed to configure the MQTT broker and send data.
 
+
+
+![image](https://github.com/eee-Andrew/Dendrometer_NB-IoT/assets/98215048/093ad6c0-08b4-4314-9bda-c4887b94e014)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
 Logging and Sleep:
 The direction and current value of the encoder are logged.
 Afterward, a command is executed to terminate the network connection, and the microcontroller is put into a low-power state using the LowPower library.
